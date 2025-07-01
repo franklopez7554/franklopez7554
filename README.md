@@ -4,7 +4,7 @@
 
 
 Ticketing Service Management
-   https://github.com/franklopez7554/Ticketing-Service-Management.git
+  - [Getting Started with ServiceNow](https://github.com/franklopez7554/Ticketing-Service-Management.git)
 
 Instance Provisioning 
   https://github.com/franklopez7554/Instance-Provisioning.git
