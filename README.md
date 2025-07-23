@@ -15,7 +15,9 @@ Directory and User Services
   - [Creating a user in Active Directory](https://github.com/franklopez7554/Creating-a-User-in-Active-Directory.git)
   - [Creating groups in Active Directory](https://github.com/franklopez7554/Creating-Groups-in-Active-Directory.git)
   - [How to reset a password](https://github.com/franklopez7554/How-to-Reset-a-Password-in-Active-Directory.git)
-  
+
+  Troubleshooting Scenarios 
+  - [Security Group Misconfiguration]
 <!--
 **franklopez7554/franklopez7554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
