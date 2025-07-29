@@ -18,7 +18,7 @@ Directory and User Services
 
   Troubleshooting Scenarios 
   - [Security Group Misconfiguration](https://github.com/franklopez7554/Security-Group-Misconfiguration.git)
-  - [Route Table Blackhole]
+  - [Route Table Blackhole](https://github.com/franklopez7554/Route-Table-Blackhole.git)
 <!--
 **franklopez7554/franklopez7554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
